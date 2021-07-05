@@ -39,4 +39,4 @@
  
 ***
  
-ссылка на проект: https://kilamokila.github.io/yet-another-project/index.html
+ссылка на проект: https://kilamokila.github.io/russian-travel//index.html
